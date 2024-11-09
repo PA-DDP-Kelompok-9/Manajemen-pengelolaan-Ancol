@@ -1,3 +1,5 @@
+#Menu-User
+
 ![Gambar WhatsApp 2024-11-09 pukul 21 22 40_843bded0](https://github.com/user-attachments/assets/9263dedf-386c-49f4-ae5b-7fbecf8d4b9c)
 
 diawal program akan diberikan 3 opsi yaitu: "sign in', "sign up", "keluar". Jika belum memiliki akun maka user bisa memilih opsi 2 dengan mengetik 2 yaitu sign up, bila sudah memiliki akun yang sudah terdaftar user bisa memilih opsi 1 dengan mengetik 1 yaitu sign in. Jika ingin keluar program bisa memilih opsi 0 dengan mengetik 0
@@ -71,3 +73,155 @@ setelah memasukkan ID dari tiket wahana yang ingin dibeli, maka sistem akan mena
 ![Gambar WhatsApp 2024-11-09 pukul 22 04 12_b4acb528](https://github.com/user-attachments/assets/00044e0f-ff7b-4daa-beda-d4c9598655bc)
 
 setelah kembali ke menu user dan tidak ada keperluan lain, user bisa menggunakan opsi (0) untuk keluar dari program.
+
+
+
+
+#Menu-Admin
+
+![Gambar WhatsApp 2024-11-09 pukul 22 57 57_fc07cdf4](https://github.com/user-attachments/assets/7c037752-6595-4672-8fed-82ab8e300252)
+
+sama seperti sebelumnya, ketika program di run maka akan menampilkan menu log in, dan kami akan menggunakan akun admin.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 03 01_b25a6a6f](https://github.com/user-attachments/assets/d7e825b9-bcfc-49f4-b5f9-496e1e2ff39d)
+
+setelah sign in menggunakan akun admin, maka sistem akan menampilkan menu menu yang bisa diakses oleh admin. (1) Kelola Wahana, Berfungsi untuk mengelola wahana-wahana seperti mengubah wahana dan lain-lain. kemudian opsi (2) berfungsi untuk mengelola tiket-tiket, seperti mengubah harga dari tiket-tiket yang terdapat di Ancol. Kemudian menu (3) Kelola Pengunjung, berfungsi untuk mengecek akun akun dari user pengunjung. kemudian menu (0) yang berfungsi untuk Keluar.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 05 48_e25dce44](https://github.com/user-attachments/assets/b0d01770-a08c-4712-82c3-81d08587b911)
+
+ketika Admin memilih opsi 1 (Kelola Wahana) maka sistem akan menampilkan (1) Create Wahana, yang berfungsi untuk menambahkan wahana. (2) Read Wahana, berfungsi untuk menampilkan wahana-wahana yang ada di Ancol. (3) Update Wahana, berfungsi untuk mengubah wahana. (4) Delete Wahana, berfungsi untuk menghapus wahana dari list wahana. (0) berfungsi untuk kembali ke menu utama.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 07 19_39bbae9e](https://github.com/user-attachments/assets/20c58e0b-3cf9-44fe-bf1b-ce9255ff0db4)
+
+gambar diatas menunjukkan tampilan ketika Admin menggunakan Opsi (1) yang berfungsi untuk menambahkan Wahana. Admin akan Memasukkan nama dari wahana yang ingin ditambahkan.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 08 48_39059e3f](https://github.com/user-attachments/assets/bf446ab6-0e6b-440e-bd16-ac0850dfb8f7)
+
+setelah memasukkan nama dari wahana yang ingin ditambahkan, otomatis wahana tersebut tersimpan di list wahana.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 11 25_96cd2c1d](https://github.com/user-attachments/assets/c28c228f-a59b-4187-bf46-3b2ab46f2b80)
+
+kemudian, ketika admin menggunakan opsi (2) maka sistem akan menampilkan list nama-nama wahana yang terdapat di Ancol, kemudian terdapat juga searching yang dimana untuk memudahkan admin dalam mencari wahana yang ingin dicari.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 12 53_e840ce83](https://github.com/user-attachments/assets/f487ed51-fb29-4f4f-afbb-432ea7cf703e)
+
+ketika Admin menggunakan opsi (3) yang dimana berfungsi untuk mengubah wahana, maka admin diharuskan untuk memasukkan nama dari wahana yang ingin diubah dan nama yang akan digunakan setelah diubah.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 14 14_31ee2029](https://github.com/user-attachments/assets/94375da1-4018-4bd6-a683-08eac7046891)
+
+![Gambar WhatsApp 2024-11-09 pukul 23 14 30_5e87b208](https://github.com/user-attachments/assets/8a587236-3ca4-4abb-960a-8b6c70e8e8ce)
+
+setelah memasukkan nama yang ingin di update dan nama yang ingin digunakan, maka otomatis nama dari wahana tersebut akan terubah.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 15 57_2ca54bb2](https://github.com/user-attachments/assets/8dea7450-017d-4afe-92ad-1812980f7087)
+
+kemudian, menu selanjutnya (4) Delete, yang dimana untuk menghapus nama wahana. Admin harus memasukkan nama wahana yang ingin dihapus.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 16 54_ab9892cb](https://github.com/user-attachments/assets/29d36360-ba85-4a37-a85d-2f241a7770b5)
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 17 08_77b8afd9](https://github.com/user-attachments/assets/b4f0ad31-5361-4100-94ff-77f91ad3b95c)
+
+setelah memasukkan nama wahana , maka otomatis sistem akan menghapus nama dari wahana yang ingin dihapus.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 18 36_f0150a24](https://github.com/user-attachments/assets/7388fd2c-eba3-4ac7-8513-b22a9ed7c9c4)
+
+ketika Admin memasukkan opsi (0) maka otomatis tampilan admin akan kembali ke layar menu utama.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 27 42_257472a1](https://github.com/user-attachments/assets/1bc592c9-b833-4f4b-aceb-b8b0138af831)
+
+kemudian setelah kembali ke menu utama, lanjut ke opsi (2) yaitu kelola tiket. Sama seperti sebelumnya di kelola tiket juga terdapat Create, Read, Update, dan Delete. Yang dimana Fungsi dari masing masing opsi juga tidak berbeda jauh dari sebelumnya (Kelola Wahana).
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 30 02_33fecb38](https://github.com/user-attachments/assets/d5f230df-dd1f-496c-ac98-09e103c057ac)
+
+di Create (1) itu sendiri, juga berfungsi untuk menambahkan tiket. setelah memilih opsi, maka Admin diharuskan untuk memasukkan nama, tipe dan harga dari tiket yang akan disediakan di Ancol. Tipe itu sendiri terdapat 2 jenis yakni; Dewasa dan Anak-anak.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 31 23_cf28618c](https://github.com/user-attachments/assets/59e18704-0f92-435b-8196-9e6e641b343c)
+
+di opsi 2 terdapat read (2), yang berfungsi untuk menampilkan list harga tiket. program juga menyediakan sistem searching untuk memudahkan admin dalam mencari tiket.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 33 44_bb946acf](https://github.com/user-attachments/assets/7ed7646e-4f91-45e7-87f7-4c938339e005)
+
+kemudian di opsi (3) yaitu Update, ketika Admin memasukkan opsi, otomatis sistem akan menampilkan list dari wahana, juga menyediakan sistem searching, agar Admin dapat dipermudah untuk mencari Wahana yang ingin dicari terlebih dahulu.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 34 51_63eae8d3](https://github.com/user-attachments/assets/ea46162d-bdb1-4222-ba01-28798a7aadf5)
+
+setelah mendapatkan wahana yang ingin dicari, Admin hanya perlu memasukkan ID dari wahana yang ingin diubah.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 36 53_7c6afb1c](https://github.com/user-attachments/assets/0f5959e9-853a-43bb-b8f1-5bc2b02f0fa0)
+
+setelah memasukkan ID dan Nama serta tipe tiket yang baru, maka otomatis akan terubah.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 38 24_28e5022b](https://github.com/user-attachments/assets/efa44b95-1577-4ced-bb0f-74cd92b7fbb5)
+
+kemudian opsi (4) yaitu delete, seperti biasa sistem akan memberikan fitur searching untuk admin agar mempermudah mencari wahana yang ingin dihapus terlebih dahulu.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 39 46_0622fb74](https://github.com/user-attachments/assets/407e4394-6b7f-4ecf-89bb-faa6aad49bb4)
+
+setelah itu, admin diharuskan untuk memasukkan ID dari wahana yang ingin dihapus, kemudian sistem akan otomatis menghapus tiket wahana tersebut.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 40 45_25a75c2c](https://github.com/user-attachments/assets/8764f6d1-9fa5-4fb7-af43-a7bdc014220e)
+
+kemudian, ketika admin memasukkan opsi(0) maka otomatis akan kembali ke layar utama.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 47 32_9fccaa9c](https://github.com/user-attachments/assets/ea7e0057-15d5-4d30-92e9-4cfb5cc45c6a)
+
+setelah di layar utama, ketika admin memasukkan opsi (3), maka admin akan masuk ke fitur kelola pengunjung, yang dimana opsi (1) untuk memasukkan nama pengunjung yang baru datang. kemudian (2) berfungsi untuk menampilkan nama nama pengunjung yang datang. Yang terakhir opsi (3) berfungsi untuk menghapus nama pengunjung.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 48 27_2c8b9f4c](https://github.com/user-attachments/assets/482d75a9-0b04-453f-9678-9acb15c7e4ef)
+
+kemudian ketika admin memasukkan opsi (1) yaitu create. Maka admin diharuskan memasukkan nama pengunjung baru yang datang.
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 49 09_10896960](https://github.com/user-attachments/assets/65ca3eda-37ba-4afb-999d-1c7651cda86e)
+
+ketika admin sudah memasukkan nama pengunjung baru, otomatis nama tersebut akan tertambah di list nama pengunjung.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 52 46_6ff7c593](https://github.com/user-attachments/assets/d3446407-ed64-4b35-a119-26a822362297)
+
+kemudian di opsi (2) akan menampilkan list nama pengunjung.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 53 57_42011a5c](https://github.com/user-attachments/assets/82ef3b51-5ff2-4b79-b83b-ddacc52cbaff)
+
+kemudian di opsi(3) yaitu delete, admin diharuskan untuk memasukkan nama pengunjung yang ingin dihapus, setelah dimasukkan maka nama tersebut otomatis terhapus.
+
+
+
+![Gambar WhatsApp 2024-11-09 pukul 23 54 26_ed3ca726](https://github.com/user-attachments/assets/b8f83a74-8a7c-41b9-a202-6f5c985aa065)
+
+dan opsi (0) berfungsi untuk kembali ke menu utama dan keluar.
